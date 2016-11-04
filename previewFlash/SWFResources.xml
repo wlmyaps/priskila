@@ -1,0 +1,859 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SWFResources>
+<SWFEffect>
+	<Files>
+		<File label = "tree"  url = "${app_path}Resources\SWF\Flashstuff\tree\">
+			<Item label = "tree01"><Url>tree01.swf</Url></Item>
+			<Item label = "tree03"><Url>tree03.swf</Url></Item>
+			<Item label = "tree04"><Url>tree04.swf</Url></Item>
+			<Item label = "tree06"><Url>tree06.swf</Url></Item>
+			<Item label = "tree07"><Url>tree07.swf</Url></Item>
+			<Item label = "tree08"><Url>tree08.swf</Url></Item>
+			<Item label = "tree09"><Url>tree09.swf</Url></Item>
+			<Item label = "tree12"><Url>tree12.swf</Url></Item>
+			<Item label = "tree14"><Url>tree14.swf</Url></Item>
+			<Item label = "tree18"><Url>tree18.swf</Url></Item>
+			<Item label = "tree19"><Url>tree19.swf</Url></Item>
+			
+			<Item label = "tree21"><Url>tree21.swf</Url></Item>
+			<Item label = "tree23"><Url>tree23.swf</Url></Item>
+			<Item label = "tree24"><Url>tree24.swf</Url></Item>
+			<Item label = "tree25"><Url>tree25.swf</Url></Item>
+			<Item label = "tree27"><Url>tree27.swf</Url></Item>
+			<Item label = "tree28"><Url>tree28.swf</Url></Item>
+			<Item label = "tree29"><Url>tree29.swf</Url></Item>
+			<Item label = "tree30"><Url>tree30.swf</Url></Item>
+			
+			<Item label = "tree31"><Url>tree31.swf</Url></Item>
+			<Item label = "tree33"><Url>tree33.swf</Url></Item>
+			<Item label = "tree34"><Url>tree34.swf</Url></Item>
+			<Item label = "tree35"><Url>tree35.swf</Url></Item>
+			<Item label = "tree37"><Url>tree37.swf</Url></Item>
+			<Item label = "tree40"><Url>tree40.swf</Url></Item>
+			
+			<Item label = "tree41"><Url>tree41.swf</Url></Item>
+			<Item label = "tree42"><Url>tree42.swf</Url></Item>
+
+			<Item label = "tree44"><Url>tree44.swf</Url></Item>
+			<Item label = "tree45"><Url>tree45.swf</Url></Item>
+			<Item label = "tree46"><Url>tree46.swf</Url></Item>
+			<Item label = "tree47"><Url>tree47.swf</Url></Item>
+			<Item label = "tree48"><Url>tree48.swf</Url></Item>
+
+		</File>
+	
+	
+		<File label = "birds"  url = "${app_path}Resources\SWF\Flashstuff\birds\">
+			<Item label = "birds05"><Url>birds05.swf</Url></Item>
+			<Item label = "birds08"><Url>birds08.swf</Url></Item>
+			<Item label = "birds09"><Url>birds09.swf</Url></Item>
+			<Item label = "birds11"><Url>birds11.swf</Url></Item>
+			<Item label = "birds12"><Url>birds12.swf</Url></Item>			
+	                	<Item label = "birds15"><Url>birds15.swf</Url></Item>
+			<Item label = "birds16"><Url>birds16.swf</Url></Item>	
+			<Item label = "birds18"><Url>birds18.swf</Url></Item>
+		</File>
+		
+		<File label = "cloud"  url = "${app_path}Resources\SWF\Flashstuff\cloud\">
+
+			<Item label = "cloud02"><Url>cloud02.swf</Url></Item>
+
+
+			<Item label = "cloud05"><Url>cloud05.swf</Url></Item>
+			<Item label = "cloud06"><Url>cloud06.swf</Url></Item>
+			<Item label = "cloud07"><Url>cloud07.swf</Url></Item>
+
+		</File>		
+		
+		<File label = "butterfly"  url = "${app_path}Resources\SWF\Flashstuff\butterfly\">
+			<Item label = "butterfly03"><Url>butterfly03.swf</Url></Item>
+			<Item label = "butterfly04"><Url>butterfly04.swf</Url></Item>
+			<Item label = "butterfly07"><Url>butterfly07.swf</Url></Item>
+			<Item label = "butterfly08"><Url>butterfly08.swf</Url></Item>
+
+		</File>		
+		
+		<File label = "bubble"  url = "${app_path}Resources\SWF\Flashstuff\bubble\">
+			<Item label = "bubble01"><Url>bubble01.swf</Url></Item>
+			<Item label = "bubble02"><Url>bubble02.swf</Url></Item>
+			<Item label = "bubble03"><Url>bubble03.swf</Url></Item>
+			<Item label = "bubble04"><Url>bubble04.swf</Url></Item>
+			<Item label = "bubble05"><Url>bubble05.swf</Url></Item>
+			<Item label = "bubble06"><Url>bubble06.swf</Url></Item>
+			<Item label = "bubble07"><Url>bubble07.swf</Url></Item>
+
+			<Item label = "bubble09"><Url>bubble09.swf</Url></Item>
+
+			
+			<Item label = "bubble11"><Url>bubble11.swf</Url></Item>
+
+			<Item label = "bubble13"><Url>bubble13.swf</Url></Item>
+			<Item label = "bubble14"><Url>bubble14.swf</Url></Item>
+			
+			<Item label = "bubble16"><Url>bubble16.swf</Url></Item>
+			<Item label = "bubble17"><Url>bubble17.swf</Url></Item>
+			<Item label = "bubble18"><Url>bubble18.swf</Url></Item>
+			<Item label = "bubble19"><Url>bubble19.swf</Url></Item>
+			<Item label = "bubble20"><Url>bubble20.swf</Url></Item>
+			
+			<Item label = "bubble21"><Url>bubble21.swf</Url></Item>
+		</File>
+		
+		<File label = "christmas"  url = "${app_path}Resources\SWF\Flashstuff\christmas\">
+
+			<Item label = "christmas04"><Url>christmas04.swf</Url></Item>
+
+			<Item label = "christmas06"><Url>christmas06.swf</Url></Item>
+			<Item label = "christmas08"><Url>christmas08.swf</Url></Item>
+			<Item label = "christmas09"><Url>christmas09.swf</Url></Item>
+			<Item label = "christmas10"><Url>christmas10.swf</Url></Item>
+			
+			<Item label = "christmas11"><Url>christmas11.swf</Url></Item>
+			<Item label = "christmas12"><Url>christmas12.swf</Url></Item>
+			<Item label = "christmas15"><Url>christmas15.swf</Url></Item><!-- -->
+		</File>	
+
+		<File label = "decoration" url = "${app_path}Resources\SWF\Flashstuff\decoration\">
+
+			<Item label = "decoration03"><Url>decoration03.swf</Url></Item>
+			<Item label = "decoration04"><Url>decoration04.swf</Url></Item>
+			<Item label = "decoration05"><Url>decoration05.swf</Url></Item>
+			<Item label = "decoration06"><Url>decoration06.swf</Url></Item>
+			<Item label = "decoration07"><Url>decoration07.swf</Url></Item>
+			<Item label = "decoration09"><Url>decoration09.swf</Url></Item>
+		
+			<Item label = "decoration11"><Url>decoration11.swf</Url></Item>
+			<Item label = "decoration12"><Url>decoration12.swf</Url></Item>
+
+			<Item label = "decoration14"><Url>decoration14.swf</Url></Item>
+			<Item label = "decoration15"><Url>decoration15.swf</Url></Item>
+
+			<Item label = "decoration18"><Url>decoration18.swf</Url></Item>
+			<Item label = "decoration20"><Url>decoration20.swf</Url></Item>
+		</File>
+		
+		<File label = "dragonfly"  url = "${app_path}Resources\SWF\Flashstuff\dragonfly\">
+
+			<Item label = "dragonfly02"><Url>dragonfly02.swf</Url></Item>
+			<Item label = "dragonfly03"><Url>dragonfly03.swf</Url></Item>
+	
+			<Item label = "dragonfly05"><Url>dragonfly05.swf</Url></Item>
+			<Item label = "dragonfly06"><Url>dragonfly06.swf</Url></Item>
+
+			<Item label = "dragonfly08"><Url>dragonfly08.swf</Url></Item><!-- -->
+	
+		</File>
+		
+		<File label = "fireworks"  url = "${app_path}Resources\SWF\Flashstuff\firework\">
+
+			<Item label = "firework02"><Url>firework02.swf</Url></Item>
+			<Item label = "firework03"><Url>firework03.swf</Url></Item>
+			<Item label = "firework04"><Url>firework04.swf</Url></Item>
+			<Item label = "firework05"><Url>firework05.swf</Url></Item>
+			<Item label = "firework06"><Url>firework06.swf</Url></Item>
+
+			<Item label = "firework09"><Url>firework09.swf</Url></Item> <!-- -->
+			<Item label = "firework10"><Url>firework10.swf</Url></Item>
+			
+			<Item label = "firework11"><Url>firework11.swf</Url></Item>
+			<Item label = "firework12"><Url>firework12.swf</Url></Item>
+			<Item label = "firework14"><Url>firework14.swf</Url></Item>
+		</File>	
+		
+		<File label = "fish"  url = "${app_path}Resources\SWF\Flashstuff\fish\">
+			<Item label = "fish01"><Url>fish01.swf</Url></Item>
+			<Item label = "fish02"><Url>fish02.swf</Url></Item>
+			<Item label = "fish03"><Url>fish03.swf</Url></Item>
+			<Item label = "fish04"><Url>fish04.swf</Url></Item>
+
+			<Item label = "fish07"><Url>fish07.swf</Url></Item>
+			<Item label = "fish08"><Url>fish08.swf</Url></Item>
+
+
+		</File>	
+		
+		<File label = "flower"  url = "${app_path}Resources\SWF\Flashstuff\flower\">
+
+			<Item label = "flower02"><Url>flower02.swf</Url></Item>
+			<Item label = "flower03"><Url>flower03.swf</Url></Item>
+			<Item label = "flower04"><Url>flower04.swf</Url></Item>
+
+			<Item label = "flower06"><Url>flower06.swf</Url></Item>
+			<Item label = "flower10"><Url>flower10.swf</Url></Item>
+			
+			<Item label = "flower11"><Url>flower11.swf</Url></Item>
+
+			<Item label = "flower14"><Url>flower14.swf</Url></Item>
+			<Item label = "flower15"><Url>flower15.swf</Url></Item>
+			<Item label = "flower16"><Url>flower16.swf</Url></Item>
+			<Item label = "flower17"><Url>flower17.swf</Url></Item>
+
+			<Item label = "flower19"><Url>flower19.swf</Url></Item>
+			<Item label = "flower20"><Url>flower20.swf</Url></Item>
+			
+			<Item label = "flower21"><Url>flower21.swf</Url></Item>
+			<Item label = "flower22"><Url>flower22.swf</Url></Item>
+			<Item label = "flower23"><Url>flower23.swf</Url></Item><!---->
+			<Item label = "flower24"><Url>flower24.swf</Url></Item>
+			<Item label = "flower26"><Url>flower26.swf</Url></Item>
+			<Item label = "flower28"><Url>flower28.swf</Url></Item><!-- -->
+			<Item label = "flower29"><Url>flower29.swf</Url></Item>
+
+			<Item label = "flower31"><Url>flower31.swf</Url></Item>
+
+			<Item label = "flower34"><Url>flower34.swf</Url></Item>
+			<Item label = "flower35"><Url>flower35.swf</Url></Item>
+			<Item label = "flower36"><Url>flower36.swf</Url></Item>
+			<Item label = "flower37"><Url>flower37.swf</Url></Item>
+			<Item label = "flower38"><Url>flower38.swf</Url></Item>
+			<Item label = "flower39"><Url>flower39.swf</Url></Item>
+			<Item label = "flower40"><Url>flower40.swf</Url></Item>
+			
+			<Item label = "flower41"><Url>flower41.swf</Url></Item>
+			<Item label = "flower42"><Url>flower42.swf</Url></Item>
+			<Item label = "flower43"><Url>flower43.swf</Url></Item>
+			<Item label = "flower44"><Url>flower44.swf</Url></Item><!-- -->
+			<Item label = "flower45"><Url>flower45.swf</Url></Item>
+			<Item label = "flower47"><Url>flower47.swf</Url></Item>
+			<Item label = "flower48"><Url>flower48.swf</Url></Item>
+			
+
+			<Item label = "flower52"><Url>flower52.swf</Url></Item>
+			<Item label = "flower53"><Url>flower53.swf</Url></Item>
+			<Item label = "flower54"><Url>flower54.swf</Url></Item>
+
+
+			<Item label = "flower60"><Url>flower60.swf</Url></Item>
+
+			<Item label = "flower62"><Url>flower62.swf</Url></Item>
+			<Item label = "flower63"><Url>flower63.swf</Url></Item>
+			<Item label = "flower65"><Url>flower65.swf</Url></Item>
+			<Item label = "flower66"><Url>flower66.swf</Url></Item>
+			<Item label = "flower67"><Url>flower67.swf</Url></Item>
+			<Item label = "flower68"><Url>flower68.swf</Url></Item>
+			<Item label = "flower69"><Url>flower69.swf</Url></Item>
+		</File>	
+		
+		<File label = "fruit"  url = "${app_path}Resources\SWF\Flashstuff\fruit\">
+			<Item label = "fruit01"><Url>fruit01.swf</Url></Item>
+
+			<Item label = "fruit04"><Url>fruit04.swf</Url></Item>
+			<Item label = "fruit05"><Url>fruit05.swf</Url></Item>
+			<Item label = "fruit06"><Url>fruit06.swf</Url></Item>
+			<Item label = "fruit08"><Url>fruit08.swf</Url></Item>
+			<Item label = "fruit10"><Url>fruit10.swf</Url></Item>
+
+
+		</File>	
+		
+		<File label = "heart" url = "${app_path}Resources\SWF\Flashstuff\heart\">
+			<Item label = "heart01"><Url>heart01.swf</Url></Item>
+			<Item label = "heart03"><Url>heart03.swf</Url></Item>
+			<Item label = "heart04"><Url>heart04.swf</Url></Item>
+			<Item label = "heart05"><Url>heart05.swf</Url></Item><!-- -->
+
+			<Item label = "heart07"><Url>heart07.swf</Url></Item>
+			<Item label = "heart08"><Url>heart08.swf</Url></Item>
+			<Item label = "heart09"><Url>heart09.swf</Url></Item>
+			<Item label = "heart10"><Url>heart10.swf</Url></Item>
+			
+			<Item label = "heart11"><Url>heart11.swf</Url></Item>
+			<Item label = "heart13"><Url>heart13.swf</Url></Item>
+			<Item label = "heart14"><Url>heart14.swf</Url></Item>
+
+			<Item label = "heart16"><Url>heart16.swf</Url></Item>
+			<Item label = "heart17"><Url>heart17.swf</Url></Item>
+			<Item label = "heart18"><Url>heart18.swf</Url></Item>
+		</File>
+		
+		<File label = "lightning" url = "${app_path}Resources\SWF\Flashstuff\lighting\">
+
+			<Item label = "lightning02"><Url>lightning02.swf</Url></Item>
+			<Item label = "lightning03"><Url>lightning03.swf</Url></Item>
+
+			<Item label = "lightning05"><Url>lightning05.swf</Url></Item>
+			<Item label = "lightning06"><Url>lightning06.swf</Url></Item>
+
+			<Item label = "lightning08"><Url>lightning08.swf</Url></Item>
+
+		</File>
+		
+		<File label = "rain" url = "${app_path}Resources\SWF\Flashstuff\rain\">
+			<Item label = "rain01"><Url>rain01.swf</Url></Item>
+
+			<Item label = "rain04"><Url>rain04.swf</Url></Item>
+
+			<Item label = "rain06"><Url>rain06.swf</Url></Item>
+			<Item label = "rain07"><Url>rain07.swf</Url></Item>
+
+			<Item label = "rain09"><Url>rain09.swf</Url></Item>
+			<Item label = "rain10"><Url>rain10.swf</Url></Item>
+			
+			<Item label = "rain11"><Url>rain11.swf</Url></Item>
+			<Item label = "rain12"><Url>rain12.swf</Url></Item>
+			<Item label = "rain13"><Url>rain13.swf</Url></Item>
+			<Item label = "rain14"><Url>rain14.swf</Url></Item>
+		</File>
+		
+		<File label = "smoke" url = "${app_path}Resources\SWF\Flashstuff\smoke\">
+			<Item label = "smoke01"><Url>smoke01.swf</Url></Item>
+			<Item label = "smoke02"><Url>smoke02.swf</Url></Item>
+
+
+			<Item label = "smoke06"><Url>smoke06.swf</Url></Item>
+
+
+			
+			<Item label = "smoke12"><Url>smoke12.swf</Url></Item>
+
+		</File>
+		
+		<File label = "snow" url = "${app_path}Resources\SWF\Flashstuff\snow\">
+			<Item label = "snow01"><Url>snow01.swf</Url></Item>
+			<Item label = "snow02"><Url>snow02.swf</Url></Item>
+			<Item label = "snow03"><Url>snow03.swf</Url></Item>
+			<Item label = "snow04"><Url>snow04.swf</Url></Item>
+			<Item label = "snow05"><Url>snow05.swf</Url></Item>
+			<Item label = "snow06"><Url>snow06.swf</Url></Item>
+			<Item label = "snow08"><Url>snow08.swf</Url></Item>
+			<Item label = "snow09"><Url>snow09.swf</Url></Item>
+			<Item label = "snow10"><Url>snow10.swf</Url></Item>
+			
+			<Item label = "snow11"><Url>snow11.swf</Url></Item>
+			<Item label = "snow12"><Url>snow12.swf</Url></Item>
+			<Item label = "snow13"><Url>snow13.swf</Url></Item>
+			<Item label = "snow14"><Url>snow14.swf</Url></Item>
+			<Item label = "snow15"><Url>snow15.swf</Url></Item>
+			<Item label = "snow16"><Url>snow16.swf</Url></Item>
+			<Item label = "snow17"><Url>snow17.swf</Url></Item>
+			<Item label = "snow18"><Url>snow18.swf</Url></Item>
+		</File>
+		
+		<File label = "star"  url = "${app_path}Resources\SWF\Flashstuff\star\">
+
+			<Item label = "star02"><Url>star02.swf</Url></Item>
+			<Item label = "star04"><Url>star04.swf</Url></Item>
+			<Item label = "star05"><Url>star05.swf</Url></Item>
+			<Item label = "star07"><Url>star07.swf</Url></Item>
+			<Item label = "star08"><Url>star08.swf</Url></Item>
+			<Item label = "star09"><Url>star09.swf</Url></Item>
+			
+			<Item label = "star13"><Url>star13.swf</Url></Item>
+			<Item label = "star14"><Url>star14.swf</Url></Item>
+			<Item label = "star15"><Url>star15.swf</Url></Item>
+
+			<Item label = "star18"><Url>star18.swf</Url></Item>
+			<Item label = "star19"><Url>star19.swf</Url></Item>
+			<Item label = "star20"><Url>star20.swf</Url></Item>
+			
+			<Item label = "star21"><Url>star21.swf</Url></Item>
+
+			<Item label = "star23"><Url>star23.swf</Url></Item>
+		</File>
+		
+		<File label = "sunshine" url = "${app_path}Resources\SWF\Flashstuff\sunshine\">
+			<Item label = "sunshine01"><Url>sunshine01.swf</Url></Item>
+			<Item label = "sunshine02"><Url>sunshine02.swf</Url></Item>
+			<Item label = "sunshine03"><Url>sunshine03.swf</Url></Item>
+			<Item label = "sunshine04"><Url>sunshine04.swf</Url></Item>
+			<Item label = "sunshine05"><Url>sunshine05.swf</Url></Item>
+			<Item label = "sunshine06"><Url>sunshine06.swf</Url></Item>
+			<Item label = "sunshine08"><Url>sunshine08.swf</Url></Item>
+		</File>
+		
+
+		
+	</Files>
+</SWFEffect>
+<HotSpots>
+	<Files>
+		<File label = "" url = "${app_path}Resources\SWF\HotSpots\">
+			<Item label = "Black Arrow Circle Hand" ><Url>Black Arrow Circle Hand.swf</Url></Item>
+			<Item label = "Black Arrow Circle" ><Url>Black Arrow Circle.swf</Url></Item>
+			<Item label = "Black Circle Blinker" ><Url>Black Circle Blinker.swf</Url></Item>
+			<Item label = "Black Circle" ><Url>Black Circle.swf</Url></Item>
+			<Item label = "Black Glow" ><Url>Black Glow.swf</Url></Item>
+			<Item label = "Black Ripple with Pointer" ><Url>Black Ripple with Pointer.swf</Url></Item>
+			<Item label = "Black Ripple" ><Url>Black Ripple.swf</Url></Item>
+			<Item label = "Black Star in Circle" ><Url>Black Star in Circle.swf</Url></Item>
+			<Item label = "BlackTwo Ripples" ><Url>BlackTwo Ripples.swf</Url></Item>
+			<Item label = "Blue Arrow Circle Hand" ><Url>Blue Arrow Circle Hand.swf</Url></Item>
+			<Item label = "Blue Arrow Circle" ><Url>Blue Arrow Circle.swf</Url></Item>
+			<Item label = "Blue Circle Blinker" ><Url>Blue Circle Blinker.swf</Url></Item>
+			<Item label = "Blue Circle" ><Url>Blue Circle.swf</Url></Item>
+			<Item label = "Blue Glow" ><Url>Blue Glow.swf</Url></Item>
+			<Item label = "Blue Ripple with Pointer" ><Url>Blue Ripple with Pointer.swf</Url></Item>
+			<Item label = "Blue Ripple" ><Url>Blue Ripple.swf</Url></Item>
+			<Item label = "Blue Star in Circle" ><Url>Blue Star in Circle.swf</Url></Item>
+			<Item label = "Blue Star" ><Url>Blue Star.swf</Url></Item>
+			<Item label = "Blue Two Ripples" ><Url>Blue Two Ripples.swf</Url></Item>
+			<Item label = "Blue_doughnut" ><Url>Blue_doughnut.swf</Url></Item>
+			<Item label = "Default Animation" ><Url>Default Animation.swf</Url></Item>
+			<Item label = "Green Arrow Circle Hand" ><Url>Green Arrow Circle Hand.swf</Url></Item>
+			<Item label = "Green Arrow Circle" ><Url>Green Arrow Circle.swf</Url></Item>
+			<Item label = "Green Circle Blinker" ><Url>Green Circle Blinker.swf</Url></Item>
+			<Item label = "Green Circle" ><Url>Green Circle.swf</Url></Item>
+			<Item label = "Green Doughnut" ><Url>Green Doughnut.swf</Url></Item>
+			<Item label = "Green Glow" ><Url>Green Glow.swf</Url></Item>
+			<Item label = "Green Ripple with Pointer" ><Url>Green Ripple with Pointer.swf</Url></Item>
+			<Item label = "Green Ripple" ><Url>Green Ripple.swf</Url></Item>
+			<Item label = "Green Star in Circle" ><Url>Green Star in Circle.swf</Url></Item>
+			<Item label = "Green Star" ><Url>Green Star.swf</Url></Item>
+			<Item label = "Green Two Ripples" ><Url>Green Two Ripples.swf</Url></Item>
+			<Item label = "Orange Circle" ><Url>Orange Circle.swf</Url></Item>
+			<Item label = "Red Arrow Circle Hand" ><Url>Red Arrow Circle Hand.swf</Url></Item>
+			<Item label = "Red Arrow Circle" ><Url>Red Arrow Circle.swf</Url></Item>
+			<Item label = "Red Circle Blinker" ><Url>Red Circle Blinker.swf</Url></Item>
+			<Item label = "Red Doughnut" ><Url>Red Doughnut.swf</Url></Item>
+			<Item label = "Red Glow" ><Url>Red Glow.swf</Url></Item>
+			<Item label = "Red Ripple with Pointer" ><Url>Red Ripple with Pointer.swf</Url></Item>
+			<Item label = "Red Ripple" ><Url>Red Ripple.swf</Url></Item>
+			<Item label = "Red Star in Circle" ><Url>Red Star in Circle.swf</Url></Item>
+			<Item label = "Red Two Ripples" ><Url>Red Two Ripples.swf</Url></Item>
+			<Item label = "Yellow Squre" ><Url>Yellow Squre.swf</Url></Item>
+			<Item label = "Yellow Start Blink" ><Url>Yellow Start Blink.swf</Url></Item>
+			<Item label = "yellow_doughnut" ><Url>yellow_doughnut.swf</Url></Item>
+		</File>
+	</Files>
+</HotSpots>
+<ShowInformation>
+	<Files>
+		<File label = "ShowInformation" url = "${app_path}Resources\SWF\">
+			<Item label = "ShowInformation"><Url>ShowInformation.swf</Url></Item>
+		</File>
+	</Files>
+</ShowInformation>
+<HightLight>
+	<Files>
+		<File label = "HightLight" url = "${app_path}Resources\SWF\HightLight\">
+			<Item label = "Animated Green Box Stop"><Url>Animated Green Box Stop.swf</Url></Item>
+			<Item label = "Animated Green Box"><Url>Animated Green Box.swf</Url></Item>
+			<Item label = "Animated Orange Circle"><Url>Animated Orange Circle.swf</Url></Item>
+			<Item label = "Animated Red Box"><Url>Animated Red Box.swf</Url></Item>
+			<Item label = "Animated Red Circle"><Url>Animated Red Circle.swf</Url></Item>
+			<Item label = "blue_squarelight"><Url>blue_squarelight.swf</Url></Item>
+			<Item label = "Green Circle Rotating"><Url>Green Circle Rotating.swf</Url></Item>
+			<Item label = "Green Line Left to Right"><Url>Green Line Left to Right.swf</Url></Item>
+			<Item label = "Green Line Right to Left"><Url>Green Line Right to Left.swf</Url></Item>
+			<Item label = "green_squarelight"><Url>green_squarelight.swf</Url></Item>
+			<Item label = "lines_square"><Url>lines_square.swf</Url></Item>
+			<Item label = "Orange highlighter"><Url>Orange highlighter.swf</Url></Item>
+			<Item label = "orange_circlelight"><Url>orange_circlelight.swf</Url></Item>
+			<Item label = "push_square"><Url>push_square.swf</Url></Item>
+			<Item label = "Red Box Blink"><Url>Red Box Blink.swf</Url></Item>
+			<Item label = "Red highlighter"><Url>Red highlighter.swf</Url></Item>
+			<Item label = "Red Line Blink"><Url>Red Line Blink.swf</Url></Item>
+			<Item label = "Red Line Left to Right"><Url>Red Line Left to Right.swf</Url></Item>
+			<Item label = "Red Line right to left"><Url>Red Line right to left.swf</Url></Item>
+			<Item label = "spin_square"><Url>spin_square.swf</Url></Item>
+		</File>
+	</Files>
+</HightLight>
+
+<EffectButton>
+	<Files>
+		<File label = "watermark" url = "${app_path}Resources\SWF\EffectButton\watermark\">
+			<Item label = "button_watermark01" ><Url>button_watermark01.swf</Url></Item>
+			<Item label = "button_watermark02" ><Url>button_watermark02.swf</Url></Item>
+			<Item label = "button_watermark03" ><Url>button_watermark03.swf</Url></Item>
+			<Item label = "button_watermark04" ><Url>button_watermark04.swf</Url></Item>
+			<Item label = "button_watermark05" ><Url>button_watermark05.swf</Url></Item>
+			
+			<Item label = "button_watermark06" ><Url>button_watermark06.swf</Url></Item>
+			<Item label = "button_watermark07" ><Url>button_watermark07.swf</Url></Item>
+			<Item label = "button_watermark08" ><Url>button_watermark08.swf</Url></Item>
+			<Item label = "button_watermark09" ><Url>button_watermark09.swf</Url></Item>
+		</File>
+		
+		<File label = "glossy" url = "${app_path}Resources\SWF\EffectButton\glossy\">
+			<Item label = "button_glossy01" ><Url>button_glossy01.swf</Url></Item>
+			<Item label = "button_glossy02" ><Url>button_glossy02.swf</Url></Item>
+			<Item label = "button_glossy03" ><Url>button_glossy03.swf</Url></Item>
+			<Item label = "button_glossy04" ><Url>button_glossy04.swf</Url></Item>
+			<Item label = "button_glossy05" ><Url>button_glossy05.swf</Url></Item>
+			
+			<Item label = "button_glossy06" ><Url>button_glossy06.swf</Url></Item>
+			<Item label = "button_glossy07" ><Url>button_glossy07.swf</Url></Item>
+			
+			<Item label = "button_glossy11" ><Url>button_glossy11.swf</Url></Item>
+			<Item label = "button_glossy12" ><Url>button_glossy12.swf</Url></Item>
+			<Item label = "button_glossy13" ><Url>button_glossy13.swf</Url></Item>
+			<Item label = "button_glossy14" ><Url>button_glossy14.swf</Url></Item>
+			<Item label = "button_glossy15" ><Url>button_glossy15.swf</Url></Item>
+			
+			<Item label = "button_glossy16" ><Url>button_glossy16.swf</Url></Item>
+			<Item label = "button_glossy17" ><Url>button_glossy17.swf</Url></Item>
+		</File>
+		
+		<File label = "push" url = "${app_path}Resources\SWF\EffectButton\push\">
+			<Item label = "button_push01" ><Url>button_push01.swf</Url></Item>
+			<Item label = "button_push02" ><Url>button_push02.swf</Url></Item>
+			<Item label = "button_push03" ><Url>button_push03.swf</Url></Item>
+			<Item label = "button_push04" ><Url>button_push04.swf</Url></Item>
+			<Item label = "button_push05" ><Url>button_push05.swf</Url></Item>
+			
+			<Item label = "button_push06" ><Url>button_push06.swf</Url></Item>
+		</File>
+		
+		<File label = "lineLight" url = "${app_path}Resources\SWF\EffectButton\lineLight\">
+			<Item label = "button_lineLight01" ><Url>button_lineLight01.swf</Url></Item>
+			<Item label = "button_lineLight02" ><Url>button_lineLight02.swf</Url></Item>
+			<Item label = "button_lineLight03" ><Url>button_lineLight03.swf</Url></Item>
+			<Item label = "button_lineLight04" ><Url>button_lineLight04.swf</Url></Item>
+			<Item label = "button_lineLight05" ><Url>button_lineLight05.swf</Url></Item>
+		</File>
+		
+		<File label = "star" url = "${app_path}Resources\SWF\EffectButton\star\">
+			<Item label = "button_star01" ><Url>button_star01.swf</Url></Item>
+			<Item label = "button_star02" ><Url>button_star02.swf</Url></Item>
+			<Item label = "button_star03" ><Url>button_star03.swf</Url></Item>
+			<Item label = "button_star04" ><Url>button_star04.swf</Url></Item>
+			<Item label = "button_star05" ><Url>button_star05.swf</Url></Item>
+		</File>
+		
+		<File label = "glitter" url = "${app_path}Resources\SWF\EffectButton\glitter\">
+			<Item label = "button_glitter01" ><Url>button_glitter01.swf</Url></Item>
+			<Item label = "button_glitter02" ><Url>button_glitter02.swf</Url></Item>
+			<Item label = "button_glitter03" ><Url>button_glitter03.swf</Url></Item>
+			<Item label = "button_glitter04" ><Url>button_glitter04.swf</Url></Item>
+			<Item label = "button_glitter05" ><Url>button_glitter05.swf</Url></Item>
+		
+			<Item label = "button_glitter06" ><Url>button_glitter06.swf</Url></Item>
+		</File>
+		
+		<File label = "shadow" url = "${app_path}Resources\SWF\EffectButton\shadow\">
+			<Item label = "button_shadow01" ><Url>button_shadow01.swf</Url></Item>
+			<Item label = "button_shadow02" ><Url>button_shadow02.swf</Url></Item>
+			<Item label = "button_shadow03" ><Url>button_shadow03.swf</Url></Item>
+			<Item label = "button_shadow04" ><Url>button_shadow04.swf</Url></Item>
+			<Item label = "button_shadow05" ><Url>button_shadow05.swf</Url></Item>
+			
+			<Item label = "button_shadow06" ><Url>button_shadow06.swf</Url></Item>
+		</File>
+		
+		<File label = "bottomLight" url = "${app_path}Resources\SWF\EffectButton\bottomLight\">
+			<Item label = "button_bottomLight01" ><Url>button_bottomLight01.swf</Url></Item>
+			<Item label = "button_bottomLight02" ><Url>button_bottomLight02.swf</Url></Item>
+			<Item label = "button_bottomLight03" ><Url>button_bottomLight03.swf</Url></Item>
+			<Item label = "button_bottomLight04" ><Url>button_bottomLight04.swf</Url></Item>
+			<Item label = "button_bottomLight05" ><Url>button_bottomLight05.swf</Url></Item>
+			
+			<Item label = "button_bottomLight06" ><Url>button_bottomLight06.swf</Url></Item>
+			<Item label = "button_bottomLight07" ><Url>button_bottomLight07.swf</Url></Item>
+			<Item label = "button_bottomLight08" ><Url>button_bottomLight08.swf</Url></Item>
+			<Item label = "button_bottomLight09" ><Url>button_bottomLight09.swf</Url></Item>
+			<Item label = "button_bottomLight10" ><Url>button_bottomLight10.swf</Url></Item>
+		</File>
+		
+		<File label = "other" url = "${app_path}Resources\SWF\EffectButton\other\">
+			<Item label = "button_other01" ><Url>button_other01.swf</Url></Item>
+			<Item label = "button_other02" ><Url>button_other02.swf</Url></Item>
+			<Item label = "button_other03" ><Url>button_other03.swf</Url></Item>
+		</File>
+
+	</Files>
+</EffectButton>
+
+
+<ClipartLib>
+	<Files>
+		<File label = "animals" url = "${app_path}Resources\Images\Clipart\animals\">
+			<Item label = ""><Url>animals01.png</Url></Item>
+			<Item label = ""><Url>animals02.png</Url></Item>
+			<Item label = ""><Url>animals03.png</Url></Item>
+			<Item label = ""><Url>animals04.png</Url></Item>
+			<Item label = ""><Url>animals05.png</Url></Item>
+			<Item label = ""><Url>animals06.png</Url></Item>
+		</File>
+		<File label = "character" url = "${app_path}Resources\Images\Clipart\character\">
+
+
+			<Item label = ""><Url>character07.png</Url></Item>
+			<Item label = ""><Url>character08.png</Url></Item>
+			<Item label = ""><Url>character10.png</Url></Item>
+			
+
+
+			<Item label = ""><Url>character14.png</Url></Item>
+			<Item label = ""><Url>character15.png</Url></Item>
+			<Item label = ""><Url>character16.png</Url></Item>
+			<Item label = ""><Url>character17.png</Url></Item>
+			<Item label = ""><Url>character18.png</Url></Item>
+			<Item label = ""><Url>character19.png</Url></Item>
+			<Item label = ""><Url>character20.png</Url></Item>
+			
+			<Item label = ""><Url>character21.png</Url></Item>
+			<Item label = ""><Url>character22.png</Url></Item>
+
+			<Item label = ""><Url>character24.png</Url></Item>
+			<Item label = ""><Url>character25.png</Url></Item>
+			<Item label = ""><Url>character26.png</Url></Item>
+			<Item label = ""><Url>character27.png</Url></Item>
+		</File>
+		<File label = "christmas"  url = "${app_path}Resources\Images\Clipart\christmas\">
+			<Item label = ""><Url>christmas01.png</Url></Item>
+
+			<Item label = ""><Url>christmas04.png</Url></Item>
+			<Item label = ""><Url>christmas05.png</Url></Item>
+			<Item label = ""><Url>christmas06.png</Url></Item>
+			<Item label = ""><Url>christmas07.png</Url></Item>
+
+
+			<Item label = ""><Url>christmas15.png</Url></Item>
+			<Item label = ""><Url>christmas16.png</Url></Item>
+			<Item label = ""><Url>christmas17.png</Url></Item>
+			<Item label = ""><Url>christmas18.png</Url></Item>
+			<Item label = ""><Url>christmas19.png</Url></Item>
+			<Item label = ""><Url>christmas20.png</Url></Item>
+			
+			<Item label = ""><Url>christmas21.png</Url></Item>
+			<Item label = ""><Url>christmas22.png</Url></Item>
+			<Item label = ""><Url>christmas23.png</Url></Item>
+			<Item label = ""><Url>christmas24.png</Url></Item>
+			<Item label = ""><Url>christmas25.png</Url></Item>
+			<Item label = ""><Url>christmas26.png</Url></Item>
+			<Item label = ""><Url>christmas27.png</Url></Item>
+			<Item label = ""><Url>christmas28.png</Url></Item>
+			<Item label = ""><Url>christmas29.png</Url></Item>
+		</File>
+		<File label = "computer" url = "${app_path}Resources\Images\Clipart\computer\">
+
+
+			<Item label = ""><Url>pc06.png</Url></Item>
+			<Item label = ""><Url>pc07.png</Url></Item>
+			<Item label = ""><Url>pc08.png</Url></Item>
+			<Item label = ""><Url>pc09.png</Url></Item>
+			<Item label = ""><Url>pc10.png</Url></Item>
+			
+			<Item label = ""><Url>pc11.png</Url></Item>
+			<Item label = ""><Url>pc12.png</Url></Item>
+			<Item label = ""><Url>pc13.png</Url></Item>
+			<Item label = ""><Url>pc14.png</Url></Item>
+			<Item label = ""><Url>pc15.png</Url></Item>
+			<Item label = ""><Url>pc16.png</Url></Item>
+			<Item label = ""><Url>pc17.png</Url></Item>
+			<Item label = ""><Url>pc18.png</Url></Item>
+			<Item label = ""><Url>pc19.png</Url></Item>
+
+			
+			<Item label = ""><Url>pc21.png</Url></Item>
+
+			<Item label = ""><Url>pc24.png</Url></Item>
+			<Item label = ""><Url>pc25.png</Url></Item>
+			<Item label = ""><Url>pc26.png</Url></Item>
+			<Item label = ""><Url>pc27.png</Url></Item>
+			<Item label = ""><Url>pc28.png</Url></Item>
+			<Item label = ""><Url>pc29.png</Url></Item>
+			<Item label = ""><Url>pc30.png</Url></Item>
+			
+			<Item label = ""><Url>pc31.png</Url></Item>
+			<Item label = ""><Url>pc32.png</Url></Item>
+			<Item label = ""><Url>pc33.png</Url></Item>
+			<Item label = ""><Url>pc34.png</Url></Item>
+			<Item label = ""><Url>pc35.png</Url></Item>
+			<Item label = ""><Url>pc36.png</Url></Item>
+			<Item label = ""><Url>pc37.png</Url></Item>
+			<Item label = ""><Url>pc38.png</Url></Item>
+			<Item label = ""><Url>pc39.png</Url></Item>
+			<Item label = ""><Url>pc40.png</Url></Item>
+			
+			<Item label = ""><Url>pc41.png</Url></Item>
+			<Item label = ""><Url>pc42.png</Url></Item>
+			<Item label = ""><Url>pc43.png</Url></Item>
+			<Item label = ""><Url>pc44.png</Url></Item>
+			<Item label = ""><Url>pc48.png</Url></Item>
+			<Item label = ""><Url>pc49.png</Url></Item>
+			<Item label = ""><Url>pc50.png</Url></Item>
+			
+			<Item label = ""><Url>pc50.png</Url></Item>
+			<Item label = ""><Url>pc52.png</Url></Item>
+			<Item label = ""><Url>pc53.png</Url></Item>
+			<Item label = ""><Url>pc54.png</Url></Item>
+			<Item label = ""><Url>pc55.png</Url></Item>
+
+			<Item label = ""><Url>pc58.png</Url></Item>
+			<Item label = ""><Url>pc59.png</Url></Item>
+			<Item label = ""><Url>pc60.png</Url></Item>
+			
+			<Item label = ""><Url>pc61.png</Url></Item>
+			<Item label = ""><Url>pc62.png</Url></Item>
+			<Item label = ""><Url>pc63.png</Url></Item>
+			<Item label = ""><Url>pc64.png</Url></Item>
+			<Item label = ""><Url>pc65.png</Url></Item>
+		</File>
+		
+		<File label = "dialogue" url = "${app_path}Resources\Images\Clipart\dialogue\">
+			<Item label = ""><Url>dialogue01.png</Url></Item>
+			<Item label = ""><Url>dialogue02.png</Url></Item>
+			<Item label = ""><Url>dialogue03.png</Url></Item>
+		</File>
+		<File label = "music" url = "${app_path}Resources\Images\Clipart\music\">
+
+			<Item label = ""><Url>music06.png</Url></Item>
+			<Item label = ""><Url>music07.png</Url></Item>
+			<Item label = ""><Url>music08.png</Url></Item>
+
+			<Item label = ""><Url>music10.png</Url></Item>
+			
+
+			<Item label = ""><Url>music12.png</Url></Item>
+
+			<Item label = ""><Url>music14.png</Url></Item>
+			<Item label = ""><Url>music15.png</Url></Item>
+			<Item label = ""><Url>music16.png</Url></Item>
+			<Item label = ""><Url>music17.png</Url></Item>
+			<Item label = ""><Url>music18.png</Url></Item>
+			<Item label = ""><Url>music19.png</Url></Item>
+			<Item label = ""><Url>music20.png</Url></Item>
+			
+			<Item label = ""><Url>music21.png</Url></Item>
+			<Item label = ""><Url>music22.png</Url></Item>
+
+
+
+			<Item label = ""><Url>music30.png</Url></Item>
+			
+			<Item label = ""><Url>music31.png</Url></Item>
+			<Item label = ""><Url>music32.png</Url></Item>
+
+			<Item label = ""><Url>music34.png</Url></Item>
+		</File>
+		<File label = "os" url = "${app_path}Resources\Images\Clipart\os\">
+			<Item label = ""><Url>os01.png</Url></Item>
+			<Item label = ""><Url>os04.png</Url></Item>
+			<Item label = ""><Url>os05.png</Url></Item>
+			<Item label = ""><Url>os06.png</Url></Item>
+			<Item label = ""><Url>os08.png</Url></Item>
+			<Item label = ""><Url>os09.png</Url></Item>
+			<Item label = ""><Url>os10.png</Url></Item>
+			
+			<Item label = ""><Url>os11.png</Url></Item>
+		</File>
+		<File label = "social-media" url = "${app_path}Resources\Images\Clipart\social-media\">
+			<Item label = ""><Url>social-media01.png</Url></Item>
+			<Item label = ""><Url>social-media02.png</Url></Item>
+			<Item label = ""><Url>social-media03.png</Url></Item>
+			<Item label = ""><Url>social-media04.png</Url></Item>
+			<Item label = ""><Url>social-media05.png</Url></Item>
+			<Item label = ""><Url>social-media06.png</Url></Item>
+			<Item label = ""><Url>social-media07.png</Url></Item>
+			<Item label = ""><Url>social-media08.png</Url></Item>
+			<Item label = ""><Url>social-media09.png</Url></Item>
+			<Item label = ""><Url>social-media10.png</Url></Item>
+			
+			<Item label = ""><Url>social-media11.png</Url></Item>
+			<Item label = ""><Url>social-media12.png</Url></Item>
+			<Item label = ""><Url>social-media13.png</Url></Item>
+			<Item label = ""><Url>social-media14.png</Url></Item>
+			<Item label = ""><Url>social-media15.png</Url></Item>
+			<Item label = ""><Url>social-media16.png</Url></Item>
+			<Item label = ""><Url>social-media17.png</Url></Item>
+			<Item label = ""><Url>social-media19.png</Url></Item>
+			<Item label = ""><Url>social-media20.png</Url></Item>
+			
+			<Item label = ""><Url>social-media21.png</Url></Item>
+			<Item label = ""><Url>social-media22.png</Url></Item>
+			<Item label = ""><Url>social-media23.png</Url></Item>
+			<Item label = ""><Url>social-media24.png</Url></Item>
+			<Item label = ""><Url>social-media25.png</Url></Item>
+			<Item label = ""><Url>social-media26.png</Url></Item>
+			<Item label = ""><Url>social-media27.png</Url></Item>
+
+			<Item label = ""><Url>social-media29.png</Url></Item>
+			<Item label = ""><Url>social-media30.png</Url></Item>
+
+
+			<Item label = ""><Url>social-media35.png</Url></Item>
+		</File>
+		<File label = "sport" url = "${app_path}Resources\Images\Clipart\sport\">
+			<Item label = ""><Url>sport05.png</Url></Item>
+
+			<Item label = ""><Url>sport07.png</Url></Item>
+
+			<Item label = ""><Url>sport10.png</Url></Item>
+			
+			<Item label = ""><Url>sport11.png</Url></Item>
+			<Item label = ""><Url>sport12.png</Url></Item>
+			<Item label = ""><Url>sport13.png</Url></Item>
+			<Item label = ""><Url>sport14.png</Url></Item>
+		</File>
+		
+		<File label = "weather" url = "${app_path}Resources\Images\Clipart\weather\">
+			<Item label = ""><Url>weather01.png</Url></Item>
+			<Item label = ""><Url>weather02.png</Url></Item>
+			<Item label = ""><Url>weather03.png</Url></Item>
+			<Item label = ""><Url>weather04.png</Url></Item>
+			<Item label = ""><Url>weather05.png</Url></Item>
+			<Item label = ""><Url>weather06.png</Url></Item>
+			<Item label = ""><Url>weather07.png</Url></Item>
+			<Item label = ""><Url>weather08.png</Url></Item>
+			<Item label = ""><Url>weather09.png</Url></Item>
+			<Item label = ""><Url>weather10.png</Url></Item>
+			
+			<Item label = ""><Url>weather11.png</Url></Item>
+			<Item label = ""><Url>weather12.png</Url></Item>
+			<Item label = ""><Url>weather13.png</Url></Item>
+			<Item label = ""><Url>weather14.png</Url></Item>
+
+			<Item label = ""><Url>weather16.png</Url></Item>
+
+			<Item label = ""><Url>weather18.png</Url></Item>
+
+			<Item label = ""><Url>weather20.png</Url></Item>
+			
+			<Item label = ""><Url>weather21.png</Url></Item>
+
+			<Item label = ""><Url>weather23.png</Url></Item>
+			<Item label = ""><Url>weather24.png</Url></Item>
+			<Item label = ""><Url>weather25.png</Url></Item>
+			<Item label = ""><Url>weather26.png</Url></Item>
+			<Item label = ""><Url>weather27.png</Url></Item>
+			<Item label = ""><Url>weather28.png</Url></Item>
+
+			<Item label = ""><Url>weather30.png</Url></Item>
+			
+
+			<Item label = ""><Url>weather32.png</Url></Item>
+			<Item label = ""><Url>weather33.png</Url></Item>
+			<Item label = ""><Url>weather34.png</Url></Item>
+			<Item label = ""><Url>weather35.png</Url></Item>
+			<Item label = ""><Url>weather36.png</Url></Item>
+
+			<Item label = ""><Url>weather38.png</Url></Item>
+
+			<Item label = ""><Url>weather40.png</Url></Item>
+			
+			<Item label = ""><Url>weather41.png</Url></Item>
+
+			<Item label = ""><Url>weather43.png</Url></Item>
+			<Item label = ""><Url>weather44.png</Url></Item>
+
+			<Item label = ""><Url>weather46.png</Url></Item>
+
+			<Item label = ""><Url>weather48.png</Url></Item>
+			<Item label = ""><Url>weather49.png</Url></Item>
+		</File>
+		<File label = "plant" url = "${app_path}Resources\Images\Clipart\plant\">
+			<Item label = ""><Url>plant01.png</Url></Item>
+			<Item label = ""><Url>plant02.png</Url></Item>
+		</File>
+	</Files>
+</ClipartLib>
+
+<CartImg>
+	<Files>
+		<File label = "cart" url = "${app_path}Resources\Images\Cart\">
+			<Item label = ""><Url>cart1.png</Url></Item>
+			<Item label = ""><Url>cart2.png</Url></Item>
+			<Item label = ""><Url>cart3.png</Url></Item>
+			<Item label = ""><Url>cart4.png</Url></Item>
+			<Item label = ""><Url>cart5.png</Url></Item>
+			<Item label = ""><Url>cart6.png</Url></Item>
+			<Item label = ""><Url>cart7.png</Url></Item>
+			<Item label = ""><Url>cart8.png</Url></Item>
+		</File>
+	</Files>
+</CartImg>
+
+
+</SWFResources>
