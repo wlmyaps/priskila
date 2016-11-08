@@ -1,0 +1,23 @@
+[Adblock Plus 1.0]
+! Checksum: A87E32238FFF90FE559D1D974A6F9DD6
+! Version: 201611090940
+! Title: Manual block
+! Last modified: 09 Nov 2016 09:40 UTC
+! Expires: 14 days (update frequency)
+! Homepage: http://info.singtel.com/
+103.10.200.55###element_to_pop_up
+viki.com##.new-feature-body
+uploaded.net###pico-1
+uploaded.net##.pico-content
+play44.net##.randid
+uploaded.net##.pico-overlay
+||scorecardresearch.com^$third-party
+cloudfare.com
+madasmedia.com
+adtechus.com
+*poker.asia
+*poker.com
+*poker.net
+*poker.co
+*poker.biz
+boyfriendtv.com###invideo_wrapper
