@@ -23,6 +23,10 @@ quora.com###__w2_KIho2qI_contents
 quora.com##.dialog_wrapper
 whattechsays.com##.wyKAY5PYmMc0-bg
 whattechsays.com##.wyKAY5PYmMc0-default
+internet-positif.org/*
+internetpositif.uzone.id/*
+*.uzone.id
+! Wlmyaps
 ||scorecardresearch.com^$third-party
 ##.deadblocker-header-bar
 bouweenpc.nl###header-banner
@@ -94428,8 +94432,6 @@ _youtube_social_
 ##.g-plus
 ##.g-plus-box
 ##.g-plusone
-##.g-plusone-holder
-##.g1-socials-item
 ##.g1-twitter
 ##.gPlusLogo
 ##.gPlusPageBadge_widget
@@ -95870,7 +95872,6 @@ _youtube_social_
 ##.share-circle
 ##.share-component
 ##.share-container
-##.share-controls
 ##.share-count
 ##.share-count-container
 ##.share-counters
@@ -105051,4 +105052,7 @@ tweakers.net#@##cookieOverlay
 uktv.co.uk#@#.cookie-notice
 vkmag.com#@##cookiesdirective
 your-move.co.uk#@#.cookie_policy
+! manual-ad
 boyfriendtv.com###invideo_wrapper
+##.util-bar-module-firefly-visible
+4players.de###seite [-abp-properties='cursor: pointer;']
