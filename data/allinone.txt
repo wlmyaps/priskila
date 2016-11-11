@@ -2,7 +2,7 @@
 ! Checksum: 0DF8D5BEE141B4784CBDB8998CBB6D0C
 ! Version: 201611080940
 ! Title: All in one
-! Last modified: 10 Nov 2016 09:40 WIB
+! Last modified: 12 Nov 2016 02:36 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -20564,7 +20564,6 @@ news.liao1.com##.border_more[height="32"]
 tingshuge.com##.bordercs[align="center"]
 52ch.net##.bot_adv
 45fan.com##.botad1
-360doc.com##.both[style^="padding-top:"]
 115.com,muzhi.baidu.com##.bottom-banner
 dianping.com##.bottom-contrainer
 liba.com##.bottom-pic
@@ -90910,8 +90909,6 @@ _youtube_social_
 ###TwitterTab
 ###TwttrFd1
 ###UISideShareBar
-###\5f __plus_0
-###\5f __plusone_0
 ###aFbLikeBottom
 ###aa_header_shares
 ###about-edition-social
@@ -94429,9 +94426,6 @@ _youtube_social_
 ##.fvgoogleplusone
 ##.fvretweet
 ##.fw-followus
-##.g-plus
-##.g-plus-box
-##.g-plusone
 ##.g1-twitter
 ##.gPlusLogo
 ##.gPlusPageBadge_widget
