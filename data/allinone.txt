@@ -17,6 +17,12 @@ uploaded.net###pico-1
 uploaded.net##.pico-content
 play44.net##.randid
 uploaded.net##.pico-overlay
+||linkbucks.com/visitScript/*
+http://streaminporn.xyz/themes/flow/js/jquery-1.11.0.min.js
+quora.com###__w2_KIho2qI_contents
+quora.com##.dialog_wrapper
+whattechsays.com##.wyKAY5PYmMc0-bg
+whattechsays.com##.wyKAY5PYmMc0-default
 ||scorecardresearch.com^$third-party
 ##.deadblocker-header-bar
 bouweenpc.nl###header-banner
@@ -1437,6 +1443,9 @@ ph4.ru##table[width][height="90"][style]
 ||newasp.com.cn^
 ||nje9.cn^
 ||orentraff.cn^
+||update-my-account-limeted-information-login-password-account.ecoaukin.puffin.arvixe.com
+||www.lostactionfigures.net
+||paypal.com-webapps-mpp-safety-and-security.bin-webscr-cmd-services-outside.auth-validatecaptcha-confirm.your-account.artejurnalism.hyperion.ro
 ||spyshredderscanner.com^
 ||trafficroup.com^
 ||ultimatepopupkiller.com^
@@ -86670,6 +86679,7 @@ _europecookielaw.
 /share/js/*
 /share/plusone.
 /share/share_
+@@||facebook.com/share/share_
 /share/tools_
 /share/twitter.
 /share/yahoomyweb.
