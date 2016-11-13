@@ -2,7 +2,7 @@
 ! Checksum: 0DF8D5BEE141B4784CBDB8998CBB6D0C
 ! Version: 201611080940
 ! Title: All in one
-! Last modified: 12 Nov 2016 02:36 WIB
+! Last modified: 13 Nov 2016 19:35 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -18,6 +18,9 @@ uploaded.net##.pico-content
 play44.net##.randid
 uploaded.net##.pico-overlay
 ||linkbucks.com/visitScript/*
+syndication.exoclick.com
+exoclick.com
+whos.amung.us/*
 http://streaminporn.xyz/themes/flow/js/jquery-1.11.0.min.js
 quora.com###__w2_KIho2qI_contents
 quora.com##.dialog_wrapper
@@ -20564,6 +20567,7 @@ news.liao1.com##.border_more[height="32"]
 tingshuge.com##.bordercs[align="center"]
 52ch.net##.bot_adv
 45fan.com##.botad1
+360doc.com##.both[style^="padding-top:"]
 115.com,muzhi.baidu.com##.bottom-banner
 dianping.com##.bottom-contrainer
 liba.com##.bottom-pic
@@ -73125,6 +73129,7 @@ moneycontrol.com##div[style="width:728px; height:90px; border:solid 0px #000080;
 moneycontrol.com##div[style="width:728px; height:90px; border:solid 1px #000080;"]
 scottishamateurfootballforum.com##div[style="width:728px; height:90px; display:inline-block;"]
 bangkokpost.com##div[style="width:728px; height:90px; margin-left: auto; margin-right: auto;"]
+relations; margin-right: auto;"]
 relationshipcolumns.com##div[style="width:728px; height:90px; margin-top:18px;"]
 mustangevolution.com##div[style="width:728px; height:90px; margin: 0 auto;"]
 canadapost.ca##div[style="width:728px; height:90px; margin: auto; text-align: center; padding: 10px;"]
@@ -105048,5 +105053,3 @@ vkmag.com#@##cookiesdirective
 your-move.co.uk#@#.cookie_policy
 ! manual-ad
 boyfriendtv.com###invideo_wrapper
-##.util-bar-module-firefly-visible
-4players.de###seite [-abp-properties='cursor: pointer;']
