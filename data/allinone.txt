@@ -18,9 +18,12 @@ uploaded.net##.pico-content
 play44.net##.randid
 uploaded.net##.pico-overlay
 ||linkbucks.com/visitScript/*
-syndication.exoclick.com
-exoclick.com
-whos.amung.us/*
+||syndication.exoclick.com^
+||exoclick.com^
+||whos.amung.us^
+||Qwz.impassablemagnificently.com^
+||findbetterresults.com^
+||syndication.exoclickz.com^
 http://streaminporn.xyz/themes/flow/js/jquery-1.11.0.min.js
 quora.com###__w2_KIho2qI_contents
 quora.com##.dialog_wrapper
@@ -29,6 +32,7 @@ whattechsays.com##.wyKAY5PYmMc0-default
 internet-positif.org/*
 internetpositif.uzone.id/*
 *.uzone.id
+*.exoclick.com
 ! Wlmyaps
 ||scorecardresearch.com^$third-party
 ##.deadblocker-header-bar
@@ -73129,7 +73133,6 @@ moneycontrol.com##div[style="width:728px; height:90px; border:solid 0px #000080;
 moneycontrol.com##div[style="width:728px; height:90px; border:solid 1px #000080;"]
 scottishamateurfootballforum.com##div[style="width:728px; height:90px; display:inline-block;"]
 bangkokpost.com##div[style="width:728px; height:90px; margin-left: auto; margin-right: auto;"]
-relations; margin-right: auto;"]
 relationshipcolumns.com##div[style="width:728px; height:90px; margin-top:18px;"]
 mustangevolution.com##div[style="width:728px; height:90px; margin: 0 auto;"]
 canadapost.ca##div[style="width:728px; height:90px; margin: auto; text-align: center; padding: 10px;"]
@@ -105053,3 +105056,4 @@ vkmag.com#@##cookiesdirective
 your-move.co.uk#@#.cookie_policy
 ! manual-ad
 boyfriendtv.com###invideo_wrapper
+##.util-bar-module-firefly-visible
