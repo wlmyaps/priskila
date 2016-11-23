@@ -2,15 +2,18 @@
 ! Checksum: 0DF8D5BEE141B4784CBDB8998CBB6D0C
 ! Version: 201611080940
 ! Title: All in one
-! Last modified: 13 Nov 2016 19:35 WIB
+! Last modified: 24 Nov 2016 00:30 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
 ! Please report any unblocked obtrusive anti adblock messages or problems
-! in the forums (http://sarimin.com/) or via e-mail (easylist.subscription+anti@gmail.com).
+! in the forums (http://sarimin.com/) or contacts (William Yap).
 ! Please check our guidelines before reporting: http://sarimin.com/
 /deadblocker/*
 !
+sayapoker.asia##.col-md-12
+x264.video##.cc_banner.cc_container.cc_container--open
+viki.com##.alert.alert-info.alert-fix.alert-fix-top
 103.10.200.55###element_to_pop_up
 viki.com##.new-feature-body
 uploaded.net###pico-1
