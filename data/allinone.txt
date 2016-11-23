@@ -11,7 +11,12 @@
 ! Please check our guidelines before reporting: http://sarimin.com/
 /deadblocker/*
 !
-sayapoker.asia##.col-md-12
+||sayapoker.asia^
+||bandarqiu.com^
+||asiabandarkiu.com^
+||rupiahqq.poker
+||memberqq.com^
+||bandarkiu.com^
 x264.video##.cc_banner.cc_container.cc_container--open
 viki.com##.alert.alert-info.alert-fix.alert-fix-top
 103.10.200.55###element_to_pop_up
