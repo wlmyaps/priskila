@@ -47,7 +47,13 @@ web.airdroid.com###alert_box
 web.airdroid.com##.animate.ui-draggable.simplemodal-data
 web.airdroid.com###confirm-overlay
 web.airdroid.com##.simplemodal-overlay
+@@||williamyaps.blogspot.co.id
+@@||williamyaps.blogspot.sg
+@@||williamyaps.blogspot.co.uk
+@@||williamyaps.webs.com
 @@||williamyaps.*
+@@||williamyaps.github.io
+@@||wlmyaps.github.io
 @@||priskilapeh.github.io
 ! Wlmyaps
 ||scorecardresearch.com^$third-party
