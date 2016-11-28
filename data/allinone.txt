@@ -2,7 +2,7 @@
 ! Checksum: 0DF8D5BEE141B4784CBDB8998CBB6D0C
 ! Version: 201611080940
 ! Title: All in one
-! Last modified: 24 Nov 2016 00:30 WIB
+! Last modified: 29 Nov 2016 00:08 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -41,6 +41,14 @@ internet-positif.org/*
 internetpositif.uzone.id/*
 *.uzone.id
 *.exoclick.com
+digitalponsel.com##.ETQKcL7GkFui-default
+digitalponsel.com##.ETQKcL7GkFui-bg
+web.airdroid.com###alert_box
+web.airdroid.com##.animate.ui-draggable.simplemodal-data
+web.airdroid.com###confirm-overlay
+web.airdroid.com##.simplemodal-overlay
+@@||williamyaps.*
+@@||priskilapeh.github.io
 ! Wlmyaps
 ||scorecardresearch.com^$third-party
 ##.deadblocker-header-bar
@@ -94784,7 +94792,6 @@ _youtube_social_
 ##.icon-connect
 ##.icon-delicious
 ##.icon-digg
-##.icon-facebook
 ##.icon-facebook-24
 ##.icon-facebook-alt
 ##.icon-facebook-box
@@ -94809,12 +94816,10 @@ _youtube_social_
 ##.icon-fb-square
 ##.icon-fb-white
 ##.icon-fb2
-##.icon-flickr
 ##.icon-footer-facebook
 ##.icon-footer-twitter
 ##.icon-footer-youtube
 ##.icon-g-plus
-##.icon-github
 ##.icon-google
 ##.icon-google-plus
 ##.icon-google-plus-2
@@ -94836,13 +94841,11 @@ _youtube_social_
 ##.icon-header-twitter
 ##.icon-inq-facebook
 ##.icon-inq-twitter
-##.icon-instagram
 ##.icon-instagram-box
 ##.icon-instagram-encircled
 ##.icon-instagram-icon
 ##.icon-instagram-white
 ##.icon-instagramm
-##.icon-linkedin
 ##.icon-linkedin-box
 ##.icon-linkedin-circled
 ##.icon-linkedin-sign
@@ -95411,11 +95414,6 @@ _youtube_social_
 ##.nav-icon-instagram
 ##.nav-icon-twitter
 ##.nav-instagram
-##.nav-share
-##.nav-social
-##.nav-social-left
-##.nav-social-links
-##.nav-social-right
 ##.nav-top__item-social
 ##.nav-youtube
 ##.navSocial
