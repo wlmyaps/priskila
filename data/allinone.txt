@@ -105050,8 +105050,6 @@ morizon.pl,tweakers.net#@#.cookieBar
 mozilla.org#@##privacy-policy
 nzherald.co.nz#@#.Cookies
 nzherald.co.nz,pokemon.com,shopstyle.com,aklagare.se,thenextweb.com#@#.no-cookies
-postnl.be#@##cookiebar-container
-postnl.be#@#.cookie_wrapper
 prosiebengames.de,stories.com,hm.com#@#.cookie-notification
 roussillhotel.com#@##cookie-banner
 security.nl#@#.cookie_consent
@@ -105069,4 +105067,9 @@ quora.com##.vertical_alignment_wrapper
 urbookdownload.com##.popup-signup
 ||holden.org.au/wp-content/uploads/2011/07/TEMPadvert*
 ||server5.myvidster.com/myv_neverblock.php?idzone=*
+lk21.tv###fbbanner
+lk21.tv##.hidden-sm.hidden-xs.container.row
+lk21.tv###ads-pop
+lk21.tv##span[style="display:block;font-size:10px;background:#aaa;text-align:center;cursor:pointer;"]
+||s3.lk21.tv/assets/*
 ##.util-bar-module-firefly-visible
