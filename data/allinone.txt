@@ -2,7 +2,7 @@
 ! Checksum: 0DF8D5BEE141B4784CBDB8998CBB6D0C
 ! Version: 201611080940
 ! Title: All in one
-! Last modified: 29 Nov 2016 00:08 WIB
+! Last modified: 9 Dec 2016 20:10 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -47,13 +47,7 @@ web.airdroid.com###alert_box
 web.airdroid.com##.animate.ui-draggable.simplemodal-data
 web.airdroid.com###confirm-overlay
 web.airdroid.com##.simplemodal-overlay
-@@||williamyaps.blogspot.co.id
-@@||williamyaps.blogspot.sg
-@@||williamyaps.blogspot.co.uk
-@@||williamyaps.webs.com
 @@||williamyaps.*
-@@||williamyaps.github.io
-@@||wlmyaps.github.io
 @@||priskilapeh.github.io
 ! Wlmyaps
 ||scorecardresearch.com^$third-party
@@ -105068,4 +105062,11 @@ vkmag.com#@##cookiesdirective
 your-move.co.uk#@#.cookie_policy
 ! manual-ad
 boyfriendtv.com###invideo_wrapper
+sshagan.net###y07f
+quora.com###__w2_yAvc9Go_outer_form
+quora.com##.dialog.modal_signup_dialog
+quora.com##.vertical_alignment_wrapper
+urbookdownload.com##.popup-signup
+||holden.org.au/wp-content/uploads/2011/07/TEMPadvert*
+||server5.myvidster.com/myv_neverblock.php?idzone=*
 ##.util-bar-module-firefly-visible
