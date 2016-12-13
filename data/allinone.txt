@@ -2,7 +2,7 @@
 ! Checksum: 0DF8D5BEE141B4784CBDB8998CBB6D0C
 ! Version: 201611080940
 ! Title: All in one
-! Last modified: 9 Dec 2016 20:10 WIB
+! Last modified: 13 Dec 2016 23:30 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -17,14 +17,30 @@
 ||rupiahqq.poker
 ||memberqq.com^
 ||bandarkiu.com^
+##span[style="display:block;font-size:10px;background:#aaa;text-align:center;cursor:pointer;"]
+##.yk-toolbar-service.js-toolbar
+##.wyKAY5PYmMc0-default
+##.wyKAY5PYmMc0-bg
+##.util-bar-module-firefly-visible
+##.pico-overlay
+##.pico-content
+##.hidden-sm.hidden-xs.container.row
+##.ETQKcL7GkFui-default
+##.ETQKcL7GkFui-bg
+###toolbarservice
+###pico-1
+###invideo_wrapper
+###fbbanner
+###element_to_pop_up
+###alert_box
+###ads-pop
+###adBlockAlert
+###adblock_1
+###abAlert
 x264.video##.cc_banner.cc_container.cc_container--open
 viki.com##.alert.alert-info.alert-fix.alert-fix-top
-103.10.200.55###element_to_pop_up
 viki.com##.new-feature-body
-uploaded.net###pico-1
-uploaded.net##.pico-content
 play44.net##.randid
-uploaded.net##.pico-overlay
 ||linkbucks.com/visitScript/*
 ||syndication.exoclick.com^
 ||exoclick.com^
@@ -35,15 +51,13 @@ uploaded.net##.pico-overlay
 http://streaminporn.xyz/themes/flow/js/jquery-1.11.0.min.js
 quora.com###__w2_KIho2qI_contents
 quora.com##.dialog_wrapper
-whattechsays.com##.wyKAY5PYmMc0-bg
-whattechsays.com##.wyKAY5PYmMc0-default
+quora.com###__w2_yAvc9Go_outer_form
+quora.com##.dialog.modal_signup_dialog
+quora.com##.vertical_alignment_wrapper
 internet-positif.org/*
 internetpositif.uzone.id/*
 *.uzone.id
 *.exoclick.com
-digitalponsel.com##.ETQKcL7GkFui-default
-digitalponsel.com##.ETQKcL7GkFui-bg
-web.airdroid.com###alert_box
 web.airdroid.com##.animate.ui-draggable.simplemodal-data
 web.airdroid.com###confirm-overlay
 web.airdroid.com##.simplemodal-overlay
@@ -105050,6 +105064,8 @@ morizon.pl,tweakers.net#@#.cookieBar
 mozilla.org#@##privacy-policy
 nzherald.co.nz#@#.Cookies
 nzherald.co.nz,pokemon.com,shopstyle.com,aklagare.se,thenextweb.com#@#.no-cookies
+postnl.be#@##cookiebar-container
+postnl.be#@#.cookie_wrapper
 prosiebengames.de,stories.com,hm.com#@#.cookie-notification
 roussillhotel.com#@##cookie-banner
 security.nl#@#.cookie_consent
@@ -105059,17 +105075,16 @@ uktv.co.uk#@#.cookie-notice
 vkmag.com#@##cookiesdirective
 your-move.co.uk#@#.cookie_policy
 ! manual-ad
-boyfriendtv.com###invideo_wrapper
 sshagan.net###y07f
-quora.com###__w2_yAvc9Go_outer_form
-quora.com##.dialog.modal_signup_dialog
-quora.com##.vertical_alignment_wrapper
 urbookdownload.com##.popup-signup
 ||holden.org.au/wp-content/uploads/2011/07/TEMPadvert*
 ||server5.myvidster.com/myv_neverblock.php?idzone=*
-lk21.tv###fbbanner
-lk21.tv##.hidden-sm.hidden-xs.container.row
-lk21.tv###ads-pop
-lk21.tv##span[style="display:block;font-size:10px;background:#aaa;text-align:center;cursor:pointer;"]
 ||s3.lk21.tv/assets/*
-##.util-bar-module-firefly-visible
+||*.postimg.org/*
+@@||*.*.pornhub.phncdn.com/*
+@@||*.*.image.pornhub.phncdn.com/*
+@@||*.phncdn.com/*
+@@||*.pornhub.phncdn.com/*
+@@||*.redtube.com/*
+@@||*.redtubefiles.com/*
+@@||*.pornhub.com/*
