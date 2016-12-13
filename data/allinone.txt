@@ -11,12 +11,10 @@
 ! Please check our guidelines before reporting: http://sarimin.com/
 /deadblocker/*
 !
-||sayapoker.asia^
-||bandarqiu.com^
-||asiabandarkiu.com^
+*bandar*.*
 ||rupiahqq.poker
 ||memberqq.com^
-||bandarkiu.com^
+*poker*.*
 ##span[style="display:block;font-size:10px;background:#aaa;text-align:center;cursor:pointer;"]
 ##.yk-toolbar-service.js-toolbar
 ##.wyKAY5PYmMc0-default
