@@ -77678,6 +77678,10 @@ clashdaily.com,girlsjustwannahaveguns.com##.ClashDaily_728x90_Single_Top
 ljworld.com,newsherald.com##.DD-Widget
 archdaily.com##.DFP-banner
 forbes.com##.DL-ad-module
+forbes.com##.ab-message.ab-message-1
+forbes.com###app
+forbes.com##.container.clearfix.default-template.ad-300-by-250
+forbes.com###borderTab
 healthzone.pk##.DataTDDefault[width="160"][height="600"]
 israeltoday.co.il##.DnnModule-1143
 secdigitalnetwork.com##.DnnModule-6542
