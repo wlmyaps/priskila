@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 90fb636fa970978562655a44d0764db9
-! Version: 201711080940
+! Checksum: A6AD8EACF824695CE3C0B62F035A0269
+! Version: 20170312
 ! Title: All in one
-! Last modified: 01 Mar 2017 10:02 WIB
+! Last modified: 12 Mar 2017 14:25 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -122,6 +122,7 @@ shadbase.com##img[alt="adblock"]
 /wp-content/plugins/ad-block-defender/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 ! wlmyaps2
+thewindowsclub.com
 139122.com
 1suckhoe.com
 230jm.178.com
