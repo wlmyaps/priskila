@@ -2,7 +2,7 @@
 ! Checksum: A6AD8EACF824695CE3C0B62F035A0269
 ! Version: 20170312
 ! Title: All in one
-! Last modified: 12 Mar 2017 14:25 WIB
+! Last modified: 13 Mar 2017 01:32 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -62,6 +62,8 @@ web.airdroid.com##.simplemodal-overlay
 @@||williamyaps.*
 @@||priskilapeh.github.io
 ! Wlmyaps
+###arvlbdata
+##.ArevicoModal-inner
 ||ffaceebook.xyz^
 ||appleid-manage-photo.com^
 ||i.mobavatar.com^
@@ -110,7 +112,7 @@ homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleag
 redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
-shadbase.com##img[alt="adblock"]
+##img[alt="adblock"]
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
