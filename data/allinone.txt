@@ -62,6 +62,14 @@ web.airdroid.com##.simplemodal-overlay
 @@||williamyaps.*
 @@||priskilapeh.github.io
 ! Wlmyaps
+###WIX_ADSdesktopWADTopLabel
+##.wixAdsdesktopWADTopLabel
+###WIX_ADSdesktopWADTopContent
+##.wixAdsdesktopWADTopContent
+##.wixAds_wrapper
+@@||static.parastorage.com/*
+@@||frog.wix.com/*
+@@editor.wix.com
 ###arvlbdata
 ##.ArevicoModal-inner
 ||ffaceebook.xyz^
