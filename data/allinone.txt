@@ -61428,7 +61428,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ignitioninstaller.com^$third-party
 ||ikzikistheking.com^$third-party
 ||imageadnet.com^$third-party
-||imasdk.googleapis.com^$third-party
+!||imasdk.googleapis.com^$third-party
 ||imedia.co.il^$third-party
 ||imediaaudiences.com^$third-party
 ||imediarevenue.com^$third-party
