@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: A6AD8EACF824695CE3C0B62F035A0269
-! Version: 20170312
+! Version: 20170411
 ! Title: All in one
-! Last modified: 13 Mar 2017 01:32 WIB
+! Last modified: 11 Apr 2017 01:12 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -67,6 +67,8 @@ web.airdroid.com##.simplemodal-overlay
 ###WIX_ADSdesktopWADTopContent
 ##.wixAdsdesktopWADTopContent
 ##.wixAds_wrapper
+###WIX_ADSdesktopWADBottomContent
+##.wixAdsdesktopWADBottomContent
 @@||static.parastorage.com/*
 @@||frog.wix.com/*
 @@editor.wix.com
@@ -74,6 +76,7 @@ web.airdroid.com##.simplemodal-overlay
 ##.ArevicoModal-inner
 ||ffaceebook.xyz^
 ||appleid-manage-photo.com^
+||buy.tinypass.com/checkout/template/*
 ||i.mobavatar.com^
 ||mobavatar.com^
 ||bot.nu^
