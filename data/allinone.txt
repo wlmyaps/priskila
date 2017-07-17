@@ -137,6 +137,7 @@ redtube.com##.qb
 /wp-content/plugins/ad-block-defender/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 ! wlmyaps2
+xylibox.blogspot.com
 thewindowsclub.com
 139122.com
 1suckhoe.com
