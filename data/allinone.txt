@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 835525542D1E80F3FBB0C28082036198
+! Checksum: 6B15781DE149A92086D46D1769B836A8
 ! Version: 20170726
-! Title: All in one
-! Last modified: 26 July 2017 01:50 WIB
+! Title: All in one by William Yap
+! Last modified: 18 Sep 2017 02:17 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://sarimin.com/
 !
@@ -62,6 +62,43 @@ web.airdroid.com##.simplemodal-overlay
 @@||williamyaps.*
 @@||priskilapeh.github.io
 ! Wlmyaps
+||v.qq.com/x/webtips?idtype=1&*
+||d1sga4e4j5xr2k.cloudfront.net/2/
+||s*.lk21.net/assets/*.gif
+###sidebar
+##.neutral-box.alert
+iceporn.com###puFloatDiv
+iceporn.com##.puFloatDiv
+##.msg-container.attributed
+##.cc-window.cc-floating.cc-type-info.cc-theme-classic.cc-bottom.cc-right.cc-color-override-1030278921
+###msg_winw
+###clickbgright
+##.clickbg
+###clickbgleft
+autocarinsider.com###txtContent
+autocarinsider.com###header-wrapper
+##._Notification_Big
+###ads_notice_lightbox
+###ads_notice_layer
+###wwtjcx
+##.axaxfxuajwsndjbb
+igaytube.tv##.videojs-hero
+##._Notification_Small
+##.popover-content
+##.modal-content
+###Cam4DialogContainer
+##.modal
+##.modal-backdrop.fade.in
+##.undefined
+##.pull-right.col-xl-12.col10-xxl-4
+###fbanner
+###hbanner
+###pbanner
+###idblog-adb-enabled
+###MobileAppBanner
+##.MobileAppBanner
+###adcodeSpan
+##.ad
 ###WIX_ADSdesktopWADTopLabel
 ##.wixAdsdesktopWADTopLabel
 ###WIX_ADSdesktopWADTopContent
