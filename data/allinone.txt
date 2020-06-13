@@ -14,6 +14,11 @@
 *bandar*.*
 ||rupiahqq.poker
 ||memberqq.com^
+||ads.pubmatic.com
+||acdn.adnxs.com
+||js-sec.indexww.com
+||u.openx.net
+quora.com^$~stylesheet
 *poker*.*
 ##span[style="display:block;font-size:10px;background:#aaa;text-align:center;cursor:pointer;"]
 ##.yk-toolbar-service.js-toolbar
